@@ -1,0 +1,231 @@
+Cliente: Phelippe
+Sexo do cliente: M
+Idade do cliente: 21
+Número de itens: 3
+Número de sabores: 2
+Valor total: 19.90
+--------------------------
+Cliente: Marcao
+Sexo do cliente: M
+Idade do cliente: 29
+Número de itens: 5
+Número de sabores: 51
+Valor total: 26.90
+--------------------------
+Cliente: Jean
+Sexo do cliente: m
+Idade do cliente: 32
+Número de itens: 4
+Número de sabores: 3
+Valor total: 32.33
+--------------------------
+Cliente: Jean
+Sexo do cliente: m
+Idade do cliente: 45
+Número de itens: 4
+Número de sabores: 3
+Valor total: 45.32
+--------------------------
+Cliente: Jean
+Sexo do cliente: f
+Idade do cliente: 43
+Número de itens: 5
+Número de sabores: 3
+Valor total: 54.65
+--------------------------
+Cliente: Jean
+Sexo do cliente: m
+Idade do cliente: 32
+Número de itens: 4
+Número de sabores: 3
+Valor total: 45.00
+--------------------------
+Cliente: Phelippe
+Sexo do cliente: M
+Idade do cliente: 21
+Número de itens: 7
+Número de sabores: 6
+Valor total: 74.21
+--------------------------
+Cliente: Phelippe
+Sexo do cliente: M
+Idade do cliente: 21
+Número de itens: 3
+Número de sabores: 2
+Valor total: 19.90
+--------------------------
+Cliente: Marcao
+Sexo do cliente: M
+Idade do cliente: 29
+Número de itens: 5
+Número de sabores: 5
+Valor total: 26.90
+--------------------------
+Cliente: Jean
+Sexo do cliente: M
+Idade do cliente: 32
+Número de itens: 4
+Número de sabores: 3
+Valor total: 32.33
+--------------------------
+Cliente: Jean
+Sexo do cliente: M
+Idade do cliente: 32
+Número de itens: 4
+Número de sabores: 3
+Valor total: 45.33
+--------------------------
+Cliente: Andressa
+Sexo do cliente: F
+Idade do cliente: 24
+Número de itens: 6
+Número de sabores: 5
+Valor total: 64.92
+--------------------------
+Cliente: Phelippe
+Sexo do cliente: M
+Idade do cliente: 21
+Número de itens: 4
+Número de sabores: 3
+Valor total: 46.43
+--------------------------
+Cliente: Alex
+Sexo do cliente: N
+Idade do cliente: 34
+Número de itens: 8
+Número de sabores: 7
+Valor total: 88.22
+--------------------------
+Cliente: Andressa
+Sexo do cliente: F
+Idade do cliente: 24
+Número de itens: 3
+Número de sabores: 2
+Valor total: 31.86
+--------------------------
+Cliente: Joao da Silva
+Sexo do cliente: M
+Idade do cliente: 35
+Número de itens: 2
+Número de sabores: 1
+Valor total: 25.50
+--------------------------
+Cliente: Maria Oliveira
+Sexo do cliente: F
+Idade do cliente: 28
+Número de itens: 3
+Número de sabores: 2
+Valor total: 35.75
+--------------------------
+Cliente: Phelippe
+Sexo do cliente: M
+Idade do cliente: 20
+Número de itens: 3
+Número de sabores: 2
+Valor total: 200.00
+--------------------------
+Cliente: Mauro
+Sexo do cliente: m
+Idade do cliente: 20
+Número de itens: 3
+Número de sabores: 2
+Valor total: 200.00
+--------------------------
+Cliente: Phelippe
+Sexo do cliente: M
+Idade do cliente: 20
+Número de itens: 5
+Número de sabores: 2
+Valor total: 56.98
+--------------------------
+Cliente: Le�tícia
+Sexo do cliente: f
+Idade do cliente: 24
+Número de itens: 6
+Número de sabores: 5
+Valor total: 67.67
+--------------------------
+Cliente: Maria Oliveira
+Sexo do cliente: F
+Idade do cliente: 28
+Número de itens: 8
+Número de sabores: 6
+Valor total: 87.62
+--------------------------
+Cliente: Joana
+Sexo do cliente: f
+Idade do cliente: 24
+Número de itens: 4
+Número de sabores: 3
+Valor total: 45.32
+--------------------------
+Cliente: Joana
+Sexo do cliente: f
+Idade do cliente: 24
+Número de itens: 4
+Número de sabores: 3
+Valor total: 60.00
+--------------------------
+Cliente: Letícia
+Sexo do cliente: f
+Idade do cliente: 24
+Número de itens: 6
+Número de sabores: 5
+Valor total: 65.47
+--------------------------
+Cliente: Marcao 
+Sexo do cliente: m
+Idade do cliente: 13
+Número de itens: 1
+Número de sabores: 1
+Valor total: 19.00
+--------------------------
+Cliente: Paulo Plínio
+Sexo do cliente: m
+Idade do cliente: 56
+Número de itens: 5
+Número de sabores: 4
+Valor total: 56.45
+--------------------------
+Cliente: Fernanda
+Sexo do cliente: f
+Idade do cliente: 34
+Número de itens: 5
+Número de sabores: 4
+Valor total: 56.76
+--------------------------
+Cliente: Gekko
+Sexo do cliente: n
+Idade do cliente: 34
+Número de itens: 6
+Número de sabores: 4
+Valor total: 32.80
+--------------------------
+Cliente: Alex
+Sexo do cliente: m
+Idade do cliente: 43
+Número de itens: 3
+Número de sabores: 2
+Valor total: 35.43
+--------------------------
+Cliente: Cookie
+Sexo do cliente: F
+Idade do cliente: 13
+Número de itens: 1
+Número de sabores: 1
+Valor total: 5.90
+--------------------------
+Cliente: Paulo
+Sexo do cliente: m
+Idade do cliente: 34
+Número de itens: 4
+Número de sabores: 3
+Valor total: 23.80
+--------------------------
+Cliente: George
+Sexo do cliente: m
+Idade do cliente: 56
+Número de itens: 4
+Número de sabores: 3
+Valor total: 45.63
+--------------------------
